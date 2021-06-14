@@ -94,3 +94,4 @@ function power(val, pow) {
 console.log(mathOperation(2, 5, "/"));
 
 console.log(power(2, 2));
+
