@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1400px;
+}
+.img_small_card{
+    padding: 30px;
+}
+.img_small_card img{
+    width: 200px;
+}
+.content{
+    display: flex;
+    margin-top: 50px;
+    position: relative;
+}
+.img_big_card{
+    position: absolute;
+    top:150px;
+    display: none;
+}
